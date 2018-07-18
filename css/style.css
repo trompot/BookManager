@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'MyFont';
+    font-family :
+	    YuGothic,    /* Mac用 */
+	    'Yu Gothic', /* Windows用 */
+	    sans-serif;
+	src: url(../font/font.ttf);
+}
+
+html, body{
+    font-family: 'MyFont';
+    /* overflow-x: hidden; */
+    /* overflow-y: hidden; */
+    /* background-color: #FFB20F; */
+    height: 100%;
+    font-size: 12.5px;
+}

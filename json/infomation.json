@@ -1,0 +1,96 @@
+{
+    "rabbit": {
+        "OS":{
+            "maker": "Windows10 Pro",
+            "value": "",
+            "note": ""
+        },
+        "マザボ": {
+            "maker": "ASRocK X370 Gaming K4",
+            "value": "14,500",
+            "note": ""
+        },
+        "CPU": {
+            "maker": "AMD Ryzen7 1700X",
+            "value": "33,500",
+            "note": ""
+        },
+        "GPU": {
+            "maker": "ASUS STRIX-GTX1060-DC2O6G",
+            "value": "14,500",
+            "note": "PCIExp 6GB"
+        },
+        "Memory": {
+            "maker": "crucial CT2K16G4DFD824A",
+            "value": "42,000",
+            "note": "DDR4 PC4-19200 16GB 2枚組"
+        },
+        "HDD": {
+            "maker": "東芝 MD04ACA400",
+            "value": "11,800",
+            "note": "2台"
+        },
+        "ケース": {
+            "maker": "ANTEC P100",
+            "value": "8,800",
+            "note": "black"
+        },
+        "空冷": {
+            "maker": "CoolerMaster Hyper TX3 EVO RR-TX3E-28PK-J1",
+            "value": "3,300",
+            "note": ""
+        },
+        "光学ドライブ": {
+            "maker": "パイオニア BDR-209BK2 バルク",
+            "value": "8,800",
+            "note": "Blue-ray Drive"
+        },
+        "電源": {
+            "maker": "玄人志向 KRPW-BK750W/85+",
+            "value": "7,500",
+            "note": "750W"
+        }
+    },
+    "server": {
+        "OS": {
+            "maker": "Fedora27",
+            "note": ""
+        },
+        "マザボ": {
+            "maker": "",
+            "note": ""
+        },
+        "CPU": {
+            "maker": "Intel Core2Duo@3.16GHz",
+            "note": ""
+        },
+        "GPU": {
+            "maker": "NVIDIA GeForce 9600 GT",
+            "note": ""
+        },
+        "Memory": {
+            "maker": "",
+            "note": "6GB"
+        },
+        "HDD": {
+            "maker": "東芝 DT01ACA2",
+            "note": ""
+        },
+        "ケース": {
+            "maker": "",
+            "note": ""
+        },
+        "空冷": {
+            "maker": "",
+            "note": ""
+        },
+        "光学ドライブ": {
+            "maker": "",
+            "note": ""
+        },
+        "電源": {
+            "maker": "",
+            "note": ""
+        }
+    }
+}
